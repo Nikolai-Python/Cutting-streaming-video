@@ -9,7 +9,8 @@ Receives frames from streaming video of public IP cameras
 - Search the Internet for the URL of the available video stream, as in the ip_cam.py file, and paste it instead of the existing one
 - 15000 in the code is the interval of 15 seconds between sliced frames. Change this value to increase or decrease the spacing. Change the number of required frames as desired    (instead of '12')
 - Run 'jupyter notebook' at the command line
-- In the window that opens, Click on the right 'New' and then 'Python 3'
+- Open the specified page in the browser
+- In the window that opens, click on the right 'New' and then 'Python 3'
 - Paste the contents of the 'camweb' file (via cp) into the opened line 'input'
 - Click 'Start'
 - How many frames you specify, as many will be recorded in your folder
