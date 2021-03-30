@@ -19,3 +19,5 @@ while success:
         
     if cv2.waitKey(15000) & 0xFF == ord('q'):
         break
+
+# blob:https://matchtv.ru/224ed02c-178a-4830-a973-13ce7a575544
